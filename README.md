@@ -1,2 +1,10 @@
 ## Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enoungh)](https://github.com/anuraghazra/github-readme-stats)
+| <a href="https://github.com/enoungh">
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=enoungh" />
+</a> 
+| <a href="https://github.com/enoungh?tab=repositories">
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enoungh&layout=compact" />
+</a> |
+
+| ------------- | ------------- |
+
