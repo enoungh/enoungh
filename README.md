@@ -1,2 +1,3 @@
-## Hi there 👋
-![enoungh's GitHub stats](https://github-readme-stats.vercel.app/api?username=enoungh&show_icons=true&theme=transparent)
+## Hi I'm enoungh! 👋
+|<a href="https://github.com/enoungh"><img height="180" src="https://github-readme-stats.vercel.app/api?username=enoungh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&show=prs_merged_percentage" alt="enoungh's github stats" /></a>|<a href="https://github.com/enoungh?tab=repositories"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enoungh&layout=compact&count_private=true&hide_border=true&exclude_repo=github-readme-stats,enoungh.github.io" alt="enoungh's github stats" /></a>|
+| ------------- | ------------- |
